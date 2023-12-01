@@ -5,4 +5,5 @@ This application is built on Rails framework
            Dan
            Chris
            Gamael
-        
+           
+  ---------     
